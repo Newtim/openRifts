@@ -1,4 +1,4 @@
-Barbarian
+Barbarian2
 =========
 
 Class Features
