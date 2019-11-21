@@ -3,7 +3,7 @@
     <div class="app-wrapper" :class="{ 'show-sidebar': showSidebar }">
       <div class="sidebar">
         <div class="sticky-header">
-          <nuxt-link tag="h1" to="/">Open5e</nuxt-link>
+          <nuxt-link tag="h1" to="/">OpenRifts</nuxt-link>
           <input class="input-search" 
             placeholder="Search Open5e"
             v-model="searchText" 
@@ -18,7 +18,7 @@
             </nuxt-link>
           </ul>
           <!-- Classes -->
-          <nuxt-link tag="li" to="/classes">Classes</nuxt-link>
+          <nuxt-link tag="li" to="/classes">OCC's</nuxt-link>
           <ul v-show="$nuxt.$route.path.indexOf('/classes') === 0">
             <nuxt-link v-for="charClass in classes" v-bind:key="charClass.slug" tag="li" :to="`/classes/${charClass.slug}`">
               {{charClass.name}}
@@ -80,7 +80,7 @@
       <div class="content-wrapper">
         <div class="mobile-header">
           <div class="sidebar-toggle" @click="toggleSidebar"></div>
-          <nuxt-link tag="h1" to="/">Open5e</nuxt-link>
+          <nuxt-link tag="h1" to="/">OpenRifts</nuxt-link>
           <div class="spacer"></div>
         </div>
         <ol class="breadcrumb">

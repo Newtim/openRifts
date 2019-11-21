@@ -2,7 +2,7 @@
   <section class="container docs-container">
     <h1>Search results</h1>
     <hr />
-    <p v-if="loading"> Searching Open5e... </p>
+    <p v-if="loading"> Searching OpenRifts... </p>
     <p v-if="!loading && results.length == 0">No results</p>
     <div v-show="!loading" class="search-result" v-bind:key="result.slug" v-for="result in orderedResults">
 
