@@ -5,7 +5,7 @@
         <div class="sticky-header">
           <nuxt-link tag="h1" to="/">OpenRifts</nuxt-link>
           <input class="input-search" 
-            placeholder="Search Open5e"
+            placeholder="Search OpenRifts"
             v-model="searchText" 
             v-on:keyup.enter="doSearch(searchText)">
         </div>  
@@ -18,7 +18,7 @@
             </nuxt-link>
           </ul>
           <!-- Classes -->
-          <nuxt-link tag="li" to="/classes">OCC's</nuxt-link>
+          <nuxt-link tag="li" to="/classes">OCCs</nuxt-link>
           <ul v-show="$nuxt.$route.path.indexOf('/classes') === 0">
             <nuxt-link v-for="charClass in classes" v-bind:key="charClass.slug" tag="li" :to="`/classes/${charClass.slug}`">
               {{charClass.name}}
@@ -52,6 +52,8 @@
           </ul>
           <!-- Magic Items -->
           <nuxt-link tag="li" v-bind:class="{'nuxt-link-active': $nuxt.$route.path.indexOf('/magicitems') === 0}" to="/magicitems/magicitem-list">Magic Items</nuxt-link>
+          <!-- Skills-->
+          <nuxt-link tag="li" v-bind:class="{'nuxt-link-active': $nuxt.$route.path.indexOf('/skills') === 0}" to="/skills/skills-table">Skills</nuxt-link>
           <!-- Spells -->
           <nuxt-link tag="li" v-bind:class="{'nuxt-link-active': $nuxt.$route.path.indexOf('/spells') === 0}" to="/spells/spells-table">Spells</nuxt-link>
           <!-- Monsters -->
