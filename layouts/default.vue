@@ -9,7 +9,7 @@
             v-model="searchText" 
             v-on:keyup.enter="doSearch(searchText)">
         </div>  
-        <ul v-if="sections && races && classes">
+        <ul v-if="sections">
           <!-- Characters -->
           <nuxt-link tag="li" to="/characters/">Characters</nuxt-link>
           <ul v-show="$nuxt.$route.path.indexOf('/characters') === 0 || containsAnyString(sectionGroups.Characters)">
