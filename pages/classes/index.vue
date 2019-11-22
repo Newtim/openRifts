@@ -3,7 +3,7 @@
     <h1>Classes</h1>
     <div class="docs-toc">
       <ul>
-        <nuxt-link tag="li" to="/classes/barbarian">Barbarian</nuxt-link>
+        <nuxt-link tag="li" to="/classes/AutisticPsychicSavant">Autistic Psychic Savant</nuxt-link>
         <nuxt-link tag="li" to="/classes/bard">Bard</nuxt-link>
         <nuxt-link tag="li" to="/classes/cleric">Cleric</nuxt-link>
         <nuxt-link tag="li" to="/classes/druid">Druid</nuxt-link>
