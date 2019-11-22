@@ -1,4 +1,4 @@
-Barbarian2
+Autistic Psychic Savant
 =========
 
 Class Features
