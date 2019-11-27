@@ -1,10 +1,10 @@
 <template>
   <section class="container docs-container">
-    OpenRifts aims to be a way to create Paladium characters and get the information you need to make it flow better.
+    OpenRifts is House Rules project meant to help people make characters in the fun world of paladium.
 
     <div class="side-note">
       <h3>Hey! Stuff is missing!</h3>
-      <p>Some content you may be expecting, it is not here yet </p>
+      <p>Some content you may be expecting, it is not here yet, I am working on it. </p>
       
     </div>
 

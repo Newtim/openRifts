@@ -4,7 +4,7 @@
 Alignment
 ---------
 
-A typical creature in the game world has an alignment, which broadly
+A typical creature in the game world has an alignment, which broadlydfgfdsg
 describes its moral and personal attitudes. Alignment is a combination
 of two factors: one identifies morality (good, evil, or neutral), and
 the other describes attitudes toward society and order (lawful, chaotic,
