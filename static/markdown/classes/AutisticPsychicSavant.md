@@ -12,27 +12,35 @@ As a Autistic Psychic Savant, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d6 
 
-### Proficiencies
-
-**Armor:** Light armor, medium armor, shields
-
-**Weapons:** Simple weapons, martial weapons
-
-**Tools:** None
-
-**Saving Throws:** Strength, Constitution
-
-**Skills:** Choose two from Animal Handling, Athletics, Intimidation,
-Nature, Perception, and Survival
-
-### Equipment
-
-You start with the following equipment, in addition to the equipment
-granted by your background:
-
--   (*a*) a greataxe or (*b*) any martial melee weapon
--   (*a*) two handaxes or (*b*) any simple weapon
--   An explorer's pack and four javelins
+### Attributes
+Real I.Q. 2D4+10, but communicates with others as ifl.Q. were 1D4+2; M.A. 2D6+3, M.E. 1D8+3, P.S. 1D8+5, P.P. 1D8+2, P.E. 2D6+6, P.B. 2D6+3, Spd. 3D6. See Character Creation in the rules section for more details about attributes and designing a character.
+### Alignment
+Any, but most Autistic Psychic Savants are brave and heroic by nature and regard supernatural evil as their natural enemy; 25% Principled, 30% Scrupulous, 25% Unprincipled, 10% Anarchist and 10% other.
+### Attribute Bonuses: None.
+### Saves
+Master psychic: Needs a 10 or higher to save vs psychic attacks
+ + 1 to roll with impact, + 1 on Perception Roll
+at levels 1, 2, 3, 5, 7, 9, 11 and 13. +7 to save vs possession,
++6 to save vs illusions, +5 to save vs Horror ,Factor and
+curses, +3 to save vs magic, and is impervious to Hypnotic
+Suggestion, mind controlling drugs and most forms of mind
+control (including magic).
+P.C.C. Limitations and Penalties: Mild to Moderate Autism
+is a curse in and of itself. The shortcomings have already
+been discussed in detail: Trouble relating to the natural
+world, behaves like a 4-6 year old child, and has trouble
+communicating with others.
+Has only two melee actions or attacks per round at level
+one,+ 1 at levels 3, 6 and 12.
+Shoots guns with a penalty of -3 to strike even on an
+aimed shot.
+Each psychic attack or use of a psionic ability counts as
+one of the character's melee attacks or actions.
+P.P.E. (Potential Psychic Energy) Points: Roll 2D4+6. Most
+of the character's P.P.E. has been spent on his psychic abilities
+and natural awareness to the supernatural. However, the
+Autistic Psychic retains more P.P.E. than most non-magical
+characters.
 
 ### Austistic Psychic Savant
 
