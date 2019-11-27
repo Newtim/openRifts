@@ -4,16 +4,13 @@ Autistic Psychic Savant
 Class Features
 --------------
 
-As a barbarian, you gain the following class features.
+As a Autistic Psychic Savant, you gain the following class features.
 
 ### Hit Points
 
-**Hit Dice:** 1d12 per barbarian level
+**Hit Points at 1st Level:** 1d6 + your PE attribute
 
-**Hit Points at 1st Level:** 12 + your Constitution modifier
-
-**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution
-modifier per barbarian level after 1st
+**Hit Points at Higher Levels:** 1d6 
 
 ### Proficiencies
 
@@ -37,335 +34,29 @@ granted by your background:
 -   (*a*) two handaxes or (*b*) any simple weapon
 -   An explorer's pack and four javelins
 
-### The Barbarian
-
-<table class="table-class">
-  <thead>
-    <tr>
-      <th>Level</th>
-      <th>Proficiency bonus</th>
-      <th>Features</th>
-      <th>Rages</th>
-      <th>Rage Damage</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1st</td>
-      <td>+2</td>
-      <td>Rage, Unarmored Defense</td>
-      <td>2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>2nd</td>
-      <td>+2</td>
-      <td>Reckless Attack, Danger Sense</td>
-      <td>2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>3rd</td>
-      <td>+2</td>
-      <td>Primal Path</td>
-      <td>3</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>4th</td>
-      <td>+2</td>
-      <td>Ability Score Improvement</td>
-      <td>3</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>5th</td>
-      <td>+3</td>
-      <td>Extra Attack, Fast Movement</td>
-      <td>4</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>6th</td>
-      <td>+3</td>
-      <td>Path feature</td>
-      <td>4</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>7th</td>
-      <td>+3</td>
-      <td>Feral Instinct</td>
-      <td>4</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>8th</td>
-      <td>+3</td>
-      <td>Ability Score Improvement</td>
-      <td>4</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>9th</td>
-      <td>+4</td>
-      <td>Brutal Critical (1 die)</td>
-      <td>4</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td>10th</td>
-      <td>+4</td>
-      <td>Path feature</td>
-      <td>4</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td>11th</td>
-      <td>+4</td>
-      <td>Relentless Rage</td>
-      <td>4</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td>12th</td>
-      <td>+4</td>
-      <td>Ability Score Improvement</td>
-      <td>5</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td>13th</td>
-      <td>+5</td>
-      <td>Brutal Critical (2 dice)</td>
-      <td>5</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td>14th</td>
-      <td>+5</td>
-      <td>Path feature</td>
-      <td>5</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td>15th</td>
-      <td>+5</td>
-      <td>Persistent Rage</td>
-      <td>5</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td>16th</td>
-      <td>+5</td>
-      <td>Ability Score Improvement</td>
-      <td>5</td>
-      <td>+4</td>
-    </tr>
-    <tr>
-      <td>17th</td>
-      <td>+6</td>
-      <td>Brutal Critical (3 dice)</td>
-      <td>6</td>
-      <td>+4</td>
-    </tr>
-    <tr>
-      <td>18th</td>
-      <td>+6</td>
-      <td>Indomitable Might</td>
-      <td>6</td>
-      <td>+4</td>
-    </tr>
-    <tr>
-      <td>19th</td>
-      <td>+6</td>
-      <td>Ability Score Improvement</td>
-      <td>6</td>
-      <td>+4</td>
-    </tr>
-    <tr>
-      <td>20th</td>
-      <td>+6</td>
-      <td>Primal Champion</td>
-      <td>Unlimited</td>
-      <td>+4</td>
-    </tr>
-  </tbody>
-</table>
+### Austistic Psychic Savant
 
 
 Class Abilities
 ---------------
 
-### Rage
+### Autistic Defensive Trance:
+An Autistic Psychic Savant can appear to "check out" of reality by entering into what appears to be a catatonic state. The Savant usually stops and sits down or curls up into a tight ball (fetal position) and zones out. Hands will be folded or balled together as if in prayer or wringing of the hands. The character rocks back and forward or side to side while humming, moaning, counting numbers, performing simple mathematics ("one plus one is two," perhaps repeating the same one over and over again), or muttering or repeating the same phrase over and over again ("Don't be afraid. Don't be afraid." or "It's okay, it's okay." or "Stop it. Stop it. Stop it." and so on.). Threats, physically shaking the character, picking him up and moving him, none of it will break the character out of his trance. In reality, the entranced psychic is vaguely aware of what's going on around him, but he has closed himself off from the world as a temporary defense maneuver. While in the Autistic Defensive Trance the character is impervious to Telepathy, Empathy, Empathic Transmission, Bio-Manipulation, See Aura, Detect Psionics, Hypnotic Suggestion, illusions and all types of psychic probes, mind reading, and mental attacks, including Horror Factor and Possession. To other psychics and supernatural beings, the Savant reads as a blank and is perceived as helpless and harmless, however, the Savant can sense when they are no longer watching him and no longer consider him a threat. That's when he comes out of the trance and takes action (makes good an escape, gets help, rescues a friend, even attacks a monster). For five full minutes after coming out of the trance the Savant remains impervious to Horror Factor, Possession, Mind Control and all the things noted above.  
+### Autistic Psychic Messaging:
+The character has trouble expressing himself or hardly talks at all, at least not very coherently. However, his mind reaches out to write words, phrases and one or two sentences out of common materials. This may appear as if written in the dust with a finger, or scratched in the dirt with a stick or formed out of pebbles, sticks, toothpicks, rice, grain, salt, pepper, sugar, peas, noodles, ketchup, string, even hair shed by a house pet! The message is always spelled correctly, grammar is perfect, and the message very clear. Note: Nobody ever sees the words form, they are just suddenly there. The Savant knows when Psychic Messaging appears, and will point to it, take people to it, or draw attention to the message in some way or another to get his message, idea or statement across. Never more than thirteen words and usually 2-8. 
+### Autistic Reading:
+Normally the character cannot read a word, but when in an agitated psychic state (investigation or crisis situation), he can not only read signs, newspaper headlines and book titles, but also magic symbols, wards, runes, and archaic languages such as ancient Greek, Egyptian hieroglyphs, Sanscrit and similar. The Savant also instantly understands the meaning of a child's drawing, optical illusions, puzzles (can find the key missing piece or two after looking at the puzzle and pieces for one melee round), and even "see" the key word(s) or phrase in an encrypted code. The word(s) just pop into the Savant's head and he speaks it aloud, sometimes repeating it over and over again (especially if important) until someone else gets the meaning or the significance. In all cases, the Autistic Savant only reads a few key words, a name, title or phrase, but like the key piece of a puzzle, it should be enough to enlighten the rest of the team. This power only engages in a x2 or greater Threat Level or when someone can get the character to look at and focus on a word, puzzle or image that has a secret, paranormal or mystical meaning. 
+### Intuitive Skills and Clarity:
+During periods when the character is involved with investigating onsite locations involving the paranormal, and when dealing directly with the supernatural, magical or paranormal, the character's autism is still present, but much less severe. He becomes more like an eight year old child in his communication skills and can perform basic functions: get dressed by himself, open doors, use a telephone, tum a switch on and off, use and untie rope, use tape, use simple tools, and knows the purpose of common, everyday items such as a vehicle, computer, alarm, phone book, gun, etc., even though he cannot actually use any of them, and so on. He is still odd, awkward, stilted, and distracted, but different, more "there" than usu8al. Stranger still, the Autistic Psychic Savant can, as needed in a crisis situation, perform select skills he has never learned at 82% proficiency! They include Escape Artist, Hide (equal to Prowl as long as he stays in one place and doesn't move), Land Navigation, Pick Locks, Rope Works and Swim. 
+### Psychic Bloodhound:
+The Autistic character may need help to dress properly, need to be led around by the hand ("stand here," "sit there," "wait here until I come back to get you"), speak in single words ("yes," "no," "okay") and short phrases ("change the channel," "I'm looking for something," "very bad thing did this." "We need to stop it." "No more suffering." etc.), and seems oblivious to ordinary things and events happening around him most of the time. May sit or stand in one place for hours at a time, and what he's looking at or thinking about is anyone's guess, because he can't say ("Just waiting, thank you." "Pretty sky." "Thinking about mystery." etc.). However, when the supernatural, psychic or magical is within one mile of the Autistic Psychic, he becomes - by comparison - amazingly cognizant and aware. The character is motivated, driven even, to locate, interact with, and respond to the supernatural, magical and psychic. He seeks to protect people from supernatural evil and destroy the monsters who prey upon and torment humans. The character is always motivated to investigate psychic and supernatural phenomena (drawn to it like a moth to flame) and to confront/ fight supernatural and magical evil and any otherworldly thing that threatens human life. 
+### See Multiple Levels of Realities:
+Most of the time the Autistic Savant seems out of it, in a daze and sleepwalking through life. However, in places of mystic power and/or in the presence of the supernatural, magic, or psychic phenomena, he can automatically see the invisible (including ghosts, Elementals and Astral Beings), sense dimensional anomalies and find dimensional portals. The Savant can also see Scurriers and Stealers (they act as if the Savant isn't even there and do things right in front of him; half the time the Savant could care less and ignores them). In addition, the character can tell the difference between what's real and what's an illusion (when in normal life he can't tell the difference between a knife and a fork), and recognizes items that are imbued with dark magic or possessed by evil spirits (amulets, charms, talismans, statues, weapons, scrolls, etc.). Likewise, the character can easily find his way out of a maze, fog, etc., and stay on the correct or safe path the entire time, unless he strays from it to help somebody. 
+### Speak in Tongues:
+All Autistic Savants have trouble communicating, and some scarcely talk at all. However, there are moments that come and go when the character can suddenly understand and fluently speak a language unknown to him at 89% skill proficiency. This includes alien languages, demonic tongues, and ancient lost languages (i.e., Egyptian and even Lemurian and Atlantean). In addition, the character can instantly figure out spoken word puzzles, tongue twisters and riddles. Note: This ability applies exclusively to the spoken word; the character cannot read.  
+### God's Wrath:
+This startling power occurs only when facing Possessing Entities or any force that can possess a mortal being (person or animal), Demonic Servants (Greater Demons), Ancient Evil and Alien Intelligences or their avatars, as well as any supernatural being directly attacking the Savant. The character must expend 6 I.S.P. and desire to attack or destroy the monster for the power to engage. When he does, the character's hands glow and smolder as if they were hot coals. Range: Touch, punch or light beam. Duration: One melee round. Damage: A touch of both hands to a mortal possessed by an evil entity does one point of damage to the victim and 4D6 damage to the possessing force. To inflict damage again, the Savant must remove his hands and then touch the victim again. After two touches (and damage) there is a 01-50% chance the possessing spirit will vacate its mortal host. After the possessing force loses more than two thirds of its Hit Points, it is almost certain (01-89% likelihood) to vacate the body, unless it can make good an escape inside the host body. Note: This weird exorcism does not work on Witches and others who join and merge with supernatural evil of their own choice. A punch attack against Demonic Servants and greater supernatural beings also inflicts 4D6 damage to the creatures, but the Autistic Savant can also fire bolts of light that inflict 1D6 damage per level of experience (a fifth level Savant does 5D6 damage, and so on) to supernatural beings, and has a range of 15 feet (4.6 m) per level of experience. 
+### Standard Meditation 
+Standard meditation is an automatic, intuitive ability.
 
-In battle, you fight with primal ferocity. On your turn, you can enter a
-rage as a bonus action.
-
-While raging, you gain the following benefits if you aren't wearing
-heavy armor:
-
--   You have advantage on Strength checks and Strength saving throws.
--   When you make a melee weapon attack using Strength, you gain a bonus
-    to the damage roll that increases as you gain levels as a barbarian,
-    as shown in the Rage Damage column of the Barbarian table.
--   You have resistance to bludgeoning, piercing, and slashing damage.
-
-If you are able to cast spells, you can't cast them or concentrate on
-them while raging.
-
-Your rage lasts for 1 minute. It ends early if you are knocked
-srd:unconscious or if your turn ends and you haven't attacked a hostile
-creature since your last turn or taken damage since then. You can also
-end your rage on your turn as a bonus action.
-
-Once you have raged the number of times shown for your barbarian level
-in the Rages column of the Barbarian table, you must finish a long rest
-before you can rage again.
-
-### Unarmored Defense
-
-While you are not wearing any armor, your Armor Class equals 10 + your
-Dexterity modifier + your Constitution modifier. You can use a shield
-and still gain this benefit.
-
-### Reckless Attack
-
-Starting at 2nd level, you can throw aside all concern for defense to
-attack with fierce desperation. When you make your first attack on your
-turn, you can decide to attack recklessly. Doing so gives you advantage
-on melee weapon attack rolls using Strength during this turn, but attack
-rolls against you have advantage until your next turn.
-
-### Danger Sense
-
-At 2nd level, you gain an uncanny sense of when things nearby aren't as
-they should be, giving you an edge when you dodge away from danger.
-
-You have advantage on Dexterity saving throws against effects that you
-can see, such as traps and spells. To gain this benefit, you can't be
-srd:blinded, srd:deafened, or srd:incapacitated.
-
-### Primal Path
-
-At 3rd level, you choose a path that shapes the nature of your rage.
-Choose the Path of the Berserker or the Path of the Totem Warrior, both
-detailed at the end of the class description. Your choice grants you
-features at 3rd level and again at 6th, 10th, and 14th levels.
-
-### Ability Score Improvement
-
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level,
-you can increase one ability score of your choice by 2, or you can
-increase two ability scores of your choice by 1. As normal, you can't
-increase an ability score above 20 using this feature.
-
-### Extra Attack
-
-Beginning at 5th level, you can attack twice, instead of once, whenever
-you take the Attack action on your turn.
-
-### Fast Movement
-
-Starting at 5th level, your speed increases by 10 feet while you aren't
-wearing heavy armor.
-
-### Feral Instinct
-
-By 7th level, your instincts are so honed that you have advantage on
-initiative rolls.
-
-Additionally, if you are surprised at the beginning of combat and aren't
-srd:incapacitated, you can act normally on your first turn, but only if
-you enter your rage before doing anything else on that turn.
-
-### Brutal Critical
-
-Beginning at 9th level, you can roll one additional weapon damage die
-when determining the extra damage for a critical hit with a melee
-attack.
-
-This increases to two additional dice at 13th level and three additional
-dice at 17th level.
-
-### Relentless Rage
-
-Starting at 11th level, your rage can keep you fighting despite grievous
-wounds. If you drop to 0 hit points while you're raging and don't die
-outright, you can make a DC 10 Constitution saving throw. If you
-succeed, you drop to 1 hit point instead.
-
-Each time you use this feature after the first, the DC increases by 5.
-When you finish a short or long rest, the DC resets to 10.
-
-### Persistent Rage
-
-Beginning at 15th level, your rage is so fierce that it ends early only
-if you fall srd:unconscious or if you choose to end it.
-
-### Indomitable Might
-
-Beginning at 18th level, if your total for a Strength check is less than
-your Strength score, you can use that score in place of the total.
-
-### Primal Champion
-
-At 20th level, you embody the power of the wilds. Your Strength and
-Constitution scores increase by 4. Your maximum for those scores is now
-24.
-
-> **Looking for more Paths? :class: missing**
->
-> Path of the berseker is the only path that was included in the [5e
-> SRD](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf). We
-> are hoping to expand using homebrew or third-party content.
->
-> If you know of high-quality content that would be a good fit, please
-> [contact us](mailto:gm@5esrd.com) or [submit it on
-> github](https://github.com/eepMoody/open5e).
-
-Barbarian Paths
----------------
-
-### Path of the Berserker
-
-For some barbarians, rage is a means to an end---that end being
-violence. The Path of the Berserker is a path of untrammeled fury, slick
-with blood. As you enter the berserker's rage, you thrill in the chaos
-of battle, heedless of your own health or well-being.
-
-#### Frenzy
-
-Starting when you choose this path at 3rd level, you can go into a
-frenzy when you rage. If you do so, for the duration of your rage you
-can make a single melee weapon attack as a bonus action on each of your
-turns after this one. When your rage ends, you suffer one level of
-srd:exhaustion.
-
-#### Mindless Rage
-
-Beginning at 6th level, you can't be srd:charmed or srd:frightened while
-raging. If you are srd:charmed or srd:frightened when you enter your
-rage, the effect is suspended for the duration of the rage.
-
-#### Intimidating Presence
-
-Beginning at 10th level, you can use your action to frighten someone
-with your menacing presence. When you do so, choose one creature that
-you can see within 30 feet of you. If the creature can see or hear you,
-it must succeed on a Wisdom saving throw (DC equal to 8 + your
-proficiency bonus + your Charisma modifier) or be srd:frightened of you
-until the end of your next turn. On subsequent turns, you can use your
-action to extend the duration of this effect on the srd:frightened
-creature until the end of your next turn. This effect ends if the
-creature ends its turn out of line of sight or more than 60 feet away
-from you.
-
-If the creature succeeds on its saving throw, you can't use this feature
-on that creature again for 24 hours.
-
-#### Retaliation
-
-Starting at 14th level, when you take damage from a creature that is
-within 5 feet of you, you can use your reaction to make a melee weapon
-attack against that creature.
+** Game Master note:**The player of this character may ask the G.M. if any of the above abilities have kicked in and should remind the G.M. about them in situations where they are likely to come into play. The reminder is wise because they are, after all, out of the normal scope of most characters. In many cases, however, it is the Game Master who should tell the player when a special snippet of insight pops into the character's mind and what it is, like the name of a demon, person, place, or title of a book, and so on. This is especially true of Autistic Reading, Speaking in Tongues, Intuitive Skills, and Seeing the Invisible. In some ways, the G.M. may look at the Autistic Savant as a walking clue machine who senses and knows things out of midair. It's then the player's problem to decide how to relate that info to others or how best to respond. G.M.s, don't go overboard and spoon feed the Savant and his or her teammates everything, they should work for their accomplishments. And don't lead the Autistic Savant around like a puppet or a child, the character should be played by the gamer and can think and feel and react on his own, he just cannot communicate and relate to the real world the same as the rest of the player characters. 
