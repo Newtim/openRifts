@@ -5,7 +5,7 @@
       <ul>
         <nuxt-link tag="li" to="/classes/AutisticPsychicSavant">Autistic Psychic Savant</nuxt-link>
         <nuxt-link tag="li" to="/classes/CyberAgent">CyberAgent</nuxt-link>
-        <nuxt-link tag="li" to="/classes/cleric">Cleric</nuxt-link>
+        <nuxt-link tag="li" to="/classes/GadgeteerAgent">Gadgeteer Agent </nuxt-link>
         <nuxt-link tag="li" to="/classes/druid">Druid</nuxt-link>
         <nuxt-link tag="li" to="/classes/fighter">Fighter</nuxt-link>
         <nuxt-link tag="li" to="/classes/monk">Monk</nuxt-link>
