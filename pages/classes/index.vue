@@ -7,14 +7,6 @@
         <nuxt-link tag="li" to="/classes/CyberAgent">CyberAgent</nuxt-link>
         <nuxt-link tag="li" to="/classes/GadgeteerAgent">GadgeteerAgent </nuxt-link>
         <nuxt-link tag="li" to="/classes/OperativeAgent">OperativeAgent</nuxt-link>
-        <nuxt-link tag="li" to="/classes/fighter">Fighter</nuxt-link>
-        <nuxt-link tag="li" to="/classes/monk">Monk</nuxt-link>
-        <nuxt-link tag="li" to="/classes/paladin">Paladin</nuxt-link>
-        <nuxt-link tag="li" to="/classes/ranger">Ranger</nuxt-link>
-        <nuxt-link tag="li" to="/classes/rogue">Rogue</nuxt-link>
-        <nuxt-link tag="li" to="/classes/sorcerer">Sorcerer</nuxt-link>
-        <nuxt-link tag="li" to="/classes/warlock">Warlock</nuxt-link>
-        <nuxt-link tag="li" to="/classes/wizard">Wizard</nuxt-link>
       </ul>
     </div>
   </section>
