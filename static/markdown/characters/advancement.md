@@ -27,84 +27,84 @@ class description to see what other improvements you gain at each level.
 <tr class="header">
 <th>Experience</th>
 <th>Level</th>
-<th>Proficiency bonus</th>
+<th>Ability</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>0</td>
 <td>1</td>
-<td>+2</td>
+<td>-</td>
 </tr>
 <tr class="even">
 <td>300</td>
 <td>2</td>
-<td>+2</td>
+<td>-</td>
 </tr>
 <tr class="odd">
 <td>900</td>
 <td>3</td>
-<td>+2</td>
+<td>-</td>
 </tr>
 <tr class="even">
 <td>2,700</td>
 <td>4</td>
-<td>+2</td>
+<td>-</td>
 </tr>
 <tr class="odd">
 <td>6,500</td>
 <td>5</td>
-<td>+3</td>
+<td>-</td>
 </tr>
 <tr class="even">
 <td>14,000</td>
 <td>6</td>
-<td>+3</td>
+<td>-</td>
 </tr>
 <tr class="odd">
 <td>23,000</td>
 <td>7</td>
-<td>+3</td>
+<td>-</td>
 </tr>
 <tr class="even">
 <td>34,000</td>
 <td>8</td>
-<td>+3</td>
+<td>-</td>
 </tr>
 <tr class="odd">
 <td>48,000</td>
 <td>9</td>
-<td>+4</td>
+<td>-</td>
 </tr>
 <tr class="even">
 <td>64,000</td>
 <td>10</td>
-<td>+4</td>
+<td>-</td>
 </tr>
 <tr class="odd">
 <td>85,000</td>
 <td>11</td>
-<td>+4</td>
+<td>-</td>
 </tr>
 <tr class="even">
 <td>100,000</td>
 <td>12</td>
-<td>+4</td>
+<td>-</td>
 </tr>
 <tr class="odd">
 <td>120,000</td>
 <td>13</td>
-<td>+5</td>
+<td>-</td>
 </tr>
 <tr class="even">
 <td>140,000</td>
 <td>14</td>
-<td>+5</td>
+<td>-</td>
 </tr>
 <tr class="odd">
 <td>165,000</td>
 <td>15</td>
-<td>+5</td>
+<td>-</td>
 </tr>
 
 </tbody>
